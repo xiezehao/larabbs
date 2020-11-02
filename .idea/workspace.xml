@@ -7,9 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -117,6 +120,7 @@
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
       <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jieQuRh0HaT8rkNwd591DABymg" />
@@ -144,7 +148,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604291327003</updated>
-      <workItem from="1604291328077" duration="1057000" />
+      <workItem from="1604291328077" duration="2239000" />
+      <workItem from="1604321710824" duration="1621000" />
     </task>
     <servers />
   </component>
@@ -152,9 +157,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1519" y="399" key="NewPhpFileDialog" timestamp="1604293058395">
+    <state x="1171" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604322164964">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1519" y="399" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604293058395" />
+    <state x="1171" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604322164964" />
+    <state x="1152" y="151" key="NewPhpClassDialog" timestamp="1604322170974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1152" y="151" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604322170974" />
+    <state x="1519" y="399" key="NewPhpFileDialog" timestamp="1604322186191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1519" y="399" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604322186191" />
   </component>
 </project>
