@@ -11,6 +11,13 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -121,6 +128,8 @@
       <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
       <path value="$PROJECT_DIR$/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
+      <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jieQuRh0HaT8rkNwd591DABymg" />
@@ -149,7 +158,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604291327003</updated>
       <workItem from="1604291328077" duration="2239000" />
-      <workItem from="1604321710824" duration="2663000" />
+      <workItem from="1604321710824" duration="2977000" />
+      <workItem from="1604371623443" duration="1141000" />
     </task>
     <servers />
   </component>
@@ -157,10 +167,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1171" y="252" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604322164964">
+    <state x="447" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604372508775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1171" y="252" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604322164964" />
+    <state x="447" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604372508775" />
     <state x="1152" y="151" key="NewPhpClassDialog" timestamp="1604322170974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
