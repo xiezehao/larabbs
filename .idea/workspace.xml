@@ -130,6 +130,8 @@
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
       <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
       <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/mews/captcha" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jieQuRh0HaT8rkNwd591DABymg" />
@@ -159,7 +161,7 @@
       <updated>1604291327003</updated>
       <workItem from="1604291328077" duration="2239000" />
       <workItem from="1604321710824" duration="2977000" />
-      <workItem from="1604371623443" duration="2062000" />
+      <workItem from="1604371623443" duration="3053000" />
     </task>
     <servers />
   </component>
