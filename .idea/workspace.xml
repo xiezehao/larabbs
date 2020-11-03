@@ -142,8 +142,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\larabbs\app\Models" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -161,7 +166,7 @@
       <updated>1604291327003</updated>
       <workItem from="1604291328077" duration="2239000" />
       <workItem from="1604321710824" duration="2977000" />
-      <workItem from="1604371623443" duration="3053000" />
+      <workItem from="1604371623443" duration="3872000" />
     </task>
     <servers />
   </component>
