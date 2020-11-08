@@ -132,6 +132,10 @@
       <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
       <path value="$PROJECT_DIR$/vendor/intervention/image" />
       <path value="$PROJECT_DIR$/vendor/mews/captcha" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/summerblue/generator" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jieQuRh0HaT8rkNwd591DABymg" />
@@ -171,7 +175,7 @@
       <workItem from="1604482223872" duration="3654000" />
       <workItem from="1604499343239" duration="2910000" />
       <workItem from="1604724908843" duration="2484000" />
-      <workItem from="1604826967917" duration="846000" />
+      <workItem from="1604826967917" duration="1331000" />
     </task>
     <servers />
   </component>
