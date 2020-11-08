@@ -136,6 +136,9 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
       <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
       <path value="$PROJECT_DIR$/vendor/summerblue/generator" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jieQuRh0HaT8rkNwd591DABymg" />
@@ -175,7 +178,7 @@
       <workItem from="1604482223872" duration="3654000" />
       <workItem from="1604499343239" duration="2910000" />
       <workItem from="1604724908843" duration="2484000" />
-      <workItem from="1604826967917" duration="5959000" />
+      <workItem from="1604826967917" duration="6514000" />
     </task>
     <servers />
   </component>
