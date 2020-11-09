@@ -150,11 +150,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/sass" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\larabbs\resources\sass" />
       <recent name="D:\wamp\www\larabbs\app\Models" />
     </key>
   </component>
@@ -180,7 +181,7 @@
       <workItem from="1604499343239" duration="2910000" />
       <workItem from="1604724908843" duration="2484000" />
       <workItem from="1604826967917" duration="9054000" />
-      <workItem from="1604886743922" duration="4205000" />
+      <workItem from="1604886743922" duration="4838000" />
     </task>
     <servers />
   </component>
