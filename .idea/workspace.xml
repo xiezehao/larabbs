@@ -140,6 +140,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
       <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
       <path value="$PROJECT_DIR$/vendor/summerblue/laravel-active" />
+      <path value="$PROJECT_DIR$/vendor/mews/purifier" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jieQuRh0HaT8rkNwd591DABymg" />
@@ -181,7 +183,7 @@
       <workItem from="1604499343239" duration="2910000" />
       <workItem from="1604724908843" duration="2484000" />
       <workItem from="1604826967917" duration="9054000" />
-      <workItem from="1604886743922" duration="4838000" />
+      <workItem from="1604886743922" duration="5514000" />
     </task>
     <servers />
   </component>
